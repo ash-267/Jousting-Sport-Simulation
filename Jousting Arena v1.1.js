@@ -17,8 +17,11 @@ let bg;
 
 function setup() {
   bg = loadImage("Jousting.jpg");
-  createCanvas(1300, 700);
-  //spawnPowerUp();
+  createCanvas(windowWidth, windowHeight);
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
