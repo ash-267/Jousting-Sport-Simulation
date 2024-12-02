@@ -18,6 +18,7 @@ let bg;
 function setup() {
   bg = loadImage("Jousting.jpg");
   createCanvas(1300, 700);
+  //spawnPowerUp();
 }
 
 function draw() {
