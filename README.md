@@ -44,12 +44,6 @@ What began as a C programming lab practical evolved into a fully playable game. 
 
 ---
 
-## 📸 Screenshots
-
-> *(Add your gameplay, menu, and design screenshots here)*
-
----
-
 ## 🚀 Future Scope
 
 - Add scoring system and health bars
