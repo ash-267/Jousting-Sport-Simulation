@@ -32,7 +32,6 @@ What began as a C programming lab practical evolved into a fully playable game. 
 | Lead Game Designer        | Ayush Sadavarte        |
 | Ideator & Backdrop Artist | Anish Dharmadhikari    |
 | Editor & Support          | Sahil Badve            |
-| Project Guide             | Yashashree Belkhede Ma’am |
 
 ---
 
@@ -57,12 +56,6 @@ What began as a C programming lab practical evolved into a fully playable game. 
 - **Start Date**: September 18, 2024  
 - **Completion**: November 30, 2024  
 - **Presentation Day**: December 5, 2024
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
